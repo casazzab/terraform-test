@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "arcane-pillar-365813",
+  "private_key_id": "9553d369089f1089fefae06245166d54e1ef61af",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDAwOGfNn4r9kTd\nuLO9klIw2IH1DvYx8ubIK79XIvCxuth6QjIcmKdr1arlBY2Z95PPYDSjro/eA8zc\nFj+bSyoYeM2tLbyLJ7OxqlUGqC9NHqqPdSuTaBVEEMAE9+g935Vdn3c+3Dve5s8G\neFESGRWH/Wf53i9+3JxWseuzBWnUFKiArscWhqWDce0dNxgDMdVbgUoVcJbs/saB\n+8utVOX65VZviBM0/W8/LVwNTJzHbOPo0IRd7pqbmy5oDuZFzwNsdzVCJa3J6dlJ\niKtMnrI3reXlDquGNHeSvxAvYpyujFiqoItiCeM5cGma8601vOvKt9q94N3pv5VP\nH5SdTkinAgMBAAECggEALxNshzwB2K7O5u/jRhtkY3WdV8KNsmlGoAC/PILWEjI2\nCLX+EyndSeLnWAPhL4dd3Dn84TUTAgAfmmj8o+rZnxxx7yfKcpoBsxSMq5GL6+Pf\neCX/vIKhHvyQSSZa3DGtAy6dKwcSwD/StBvSgP8LWSk0qbvwEaXDsRDHJfPeguMT\n1FwhONKOM0iUyUp8ii8Uab4uOgJXGO54Nk0532v5RnLgrLlZ5aZeoCH4WL+BxOHD\noIr3G7sTwG/4O5YRj3lL0WyjcVXBOES4Scq/ntveg3X4/4Kcz8MNV7JfiXNsKWSv\n4R8pva6Jtsf8/IxklvfeEpanOvz/5tghW5/NhFcD4QKBgQDyC6cc8liyHbNz5Cxv\ntK9xuNhPnHIjoFKmHZ/h4Gy+tFgMyyxAOS1Yb9AKmd5cp9pZGTqwk1kXYn6zYP5k\n23+DOAInoPyIFSykg9IXl9uQ+pJ7B4vn4iihoXab3KhmaXaOHV1bwoc6EtO9iAfh\ntMMwFeZXCsWqaSJbVdVqSMD8WQKBgQDL3boyRFzsvxskQ8TtIlcJMTBqhgk2cB87\nqluXMnBxcvLlRSFGs0KBe2LwvVt3Gr/s0TUJhSKWhQXzRxFRoeyKjrhXlhLf8Jbw\niKGqjUPkP4/5ca96cj47LC1v0M8K2V4xE5A7OKHsNWUtO56nVemQCRAujaUF9Dfi\nnlRJjFzM/wKBgQCYS6S2nfYY/H8xaFxdXP8XOws/7FwU9oeKZhF3elJyG99bDWum\nbVOO1au9P9udyS+l6C35dH0WLa8zBtCKfWHaGp+gd7btmQUh7p9+oNpSepc4OiNZ\nn/+Y05NhtpFu/uTNvsRDPD8B117LXpA3ABngY6cvFWQSOVyYw4Uo/uYO4QKBgAsz\nnrR+XyC/C229r4dcGK4vnrprrPvpwz2TCb9QDS+eokwItWBeHyxgLDqQHQN5W8xW\nXnSsdQ8SNhZ89C2pGQcv+l8NpvHZFWIYD9IAOxfCilWpcnvm5RZ5QfHf5lBxSySl\nL4qhfPwunuWSXhBRvyij5ti3/bZLCfsQug7kgIDfAoGBAM65Iy/sCms8U4YkD/hg\nicwOs2Tofkyi30D0Hl9xBPzZVwqhqFl8PUVqk72BWLd7N1sCvkqOHcZWRy9Le5O3\nZof/snhEh3peA5o6O0PLculjJV/2yqNdhgas8/dEDUOw+jlQ4JQq79ylKQ9nfKlb\nstrQsTB2oL/cd17ZrVDtG2G5\n-----END PRIVATE KEY-----\n",
+  "client_email": "terraform@arcane-pillar-365813.iam.gserviceaccount.com",
+  "client_id": "112340776452612063573",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/terraform%40arcane-pillar-365813.iam.gserviceaccount.com"
+}
